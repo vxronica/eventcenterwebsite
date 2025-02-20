@@ -1,4 +1,4 @@
-# Veronica's Stadium Website - README
+# Veronica's Stadium Website
 
 ## Overview
 
